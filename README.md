@@ -29,7 +29,7 @@ Here's a gif of a dancing banana:
 ![Banana Gif](https://media.tenor.com/UTfN6nIPrlYAAAAM/banana-dance.gif)
     
   
-Here's an example of a quote:
+Here's an example of a text quotation:
   
   >"You must be the change you wish ot see in the world" - Mahatma Gandhi
   
