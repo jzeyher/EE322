@@ -28,4 +28,13 @@ Here's a gif of a dancing banana:
 
 ![Banana Gif](https://media.tenor.com/UTfN6nIPrlYAAAAM/banana-dance.gif)
     
-Here's a thumbs up for completing the assignment: :+1:
+  
+Here's an example of a quote:
+  
+  >"You must be the change you wish ot see in the world"
+    >Mahatma Gandhi
+  
+  
+  
+  
+Here's a thumbs up for the end of my first repository: :+1:
