@@ -22,6 +22,6 @@ And here's some subscript<sub>I am subscript<sub>
 
 Here's an image embedded in the text:
 
-![Picture of Banana](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbcgoodfood.com%2Fhowto%2Fguide%2Fhealth-benefits-bananas&psig=AOvVaw3JEDiAe_MBDyMk0qQA5pCq&ust=1675178111487000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjd3vXK7_wCFQAAAAAdAAAAABAD)
+![Picture of Banana](https://images.immediate.co.uk/production/volatile/sites/30/2017/01/Bananas-218094b-scaled.jpg)
     
 Here's a thumbs up for completing the assignment: :+1:
