@@ -24,4 +24,8 @@ Here's an image embedded in the text:
 
 ![Picture of Banana](https://images.immediate.co.uk/production/volatile/sites/30/2017/01/Bananas-218094b-scaled.jpg)
     
+Here's a gif of a dancing banana:
+
+![Banana Gif](https://media.tenor.com/UTfN6nIPrlYAAAAM/banana-dance.gif)
+    
 Here's a thumbs up for completing the assignment: :+1:
