@@ -26,7 +26,7 @@ Here's an image embedded in the text:
     
 Here's a gif of a dancing banana:
 
-![Banana Gif](https://media.tenor.com/UTfN6nIPrlYAAAAM/banana-dance.gif)
+![Banana Gif](https://cdn.wallpapersafari.com/15/60/rCDze1.gif)
     
   
 Here's an example of a text quotation:
