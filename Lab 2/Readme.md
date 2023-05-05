@@ -1,6 +1,7 @@
 # Lab 2 - Command Line
 
 ## Run the following in a terminal:
+All commands were run, but not all results are shown. 
 ```
 $ hostname
 $ env
