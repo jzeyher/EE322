@@ -11,6 +11,6 @@
 ![Capture](https://user-images.githubusercontent.com/98130028/236382558-00977964-2f92-4c21-994e-943e62d27789.PNG)
 
 
-## Google Sheets and Cloud Platromf Identity Access Management
+## Google Sheets and Cloud Platform Identity Access Management
 ![Capture](https://user-images.githubusercontent.com/98130028/236549351-cbf6d1c0-4659-4a80-8e4f-9183565b9be2.PNG)
 
